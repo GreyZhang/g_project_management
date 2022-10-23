@@ -3,3 +3,4 @@
 ** 学习笔记
 - [[https://blog.csdn.net/grey_csdn/article/details/127328464][1491_福特8D分析案例学习]]
 - [[https://blog.csdn.net/grey_csdn/article/details/127456990][1499_什么是paynter图]]
+- [[https://blog.csdn.net/grey_csdn/article/details/127473050][1500_什么是鱼骨图以及鱼骨图如何使用]]
